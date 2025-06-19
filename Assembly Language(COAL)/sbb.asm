@@ -1,0 +1,5 @@
+MOV AX,2675H 
+MOV CX,3486H 
+SUB AX,CX      
+
+SBB AX,DX       

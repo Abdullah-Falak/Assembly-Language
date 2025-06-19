@@ -1,0 +1,5 @@
+MOV AX,2345H 
+MOV BX,3476H 
+ADD BX,AX 
+          
+ADD BH,34H

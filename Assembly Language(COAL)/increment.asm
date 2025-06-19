@@ -1,0 +1,3 @@
+MOV AX,7537H 
+
+INC AX

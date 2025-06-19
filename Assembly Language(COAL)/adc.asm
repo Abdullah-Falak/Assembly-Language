@@ -1,0 +1,5 @@
+MOV AX,2465H 
+ADD AX,0E579H       
+
+MOV DX,6995H 
+ADC AX,DX       

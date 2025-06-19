@@ -1,0 +1,4 @@
+MOV AX,835FH 
+
+NOT AX
+HLT
